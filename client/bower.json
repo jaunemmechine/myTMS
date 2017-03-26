@@ -1,0 +1,20 @@
+{
+  "name": "tms_client",
+  "description": "任务管理系统客户端",
+  "main": "index.js",
+  "authors": [
+    "jaune"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
